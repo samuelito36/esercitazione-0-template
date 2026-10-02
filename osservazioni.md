@@ -27,17 +27,21 @@ Che cosa ho capito su sorgente ed eseguibile:
 
 
 Output richiesto e comportamento del programma prima della modifica:
-
+il programma richiedeva di stampare "Hello, computational physics!". Prima della modifica, se si compilava il codice, non stampava nulla.
 
 Esito dopo la modifica e spiegazione della correzione:
+Dopo la modifica (aggiunta di printf("Hello, computational physics!\n");) il codice printa correttamente la frase richiesta.
 
 ## Step 1 — Git
 
 Quali file ho incluso nel commit e perché:
+hello.c ed osservazioni.md, perche' sono i file su cui ho apportato modifiche.
 
 Come ho verificato che la versione provata sia presente su GitHub:
+Ho controllato che effettivamente le modifiche fatte ai file in locale coincidessero con quelle online.
 
 Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+git pull porta in locale i file caricati su github. Nel nostro caso, erano gia aggiornate all'ultima versione.
 
 ## Step 2 — Eco: prima prova
 
