@@ -9,7 +9,7 @@ Leonardo Iacarelli Desto-jpg;
 URL del repository condiviso:
 https://github.com/samuelito36/esercitazione-0-template.git
 
-Chi ha usato la tastiera nello step 1 e nello step 2: io.
+Chi ha usato la tastiera nello step 1 e nello step 2: Samuel Magrelli
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
