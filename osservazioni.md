@@ -3,10 +3,13 @@
 Gruppo:
 
 Componenti (nome, cognome e username GitHub di entrambi):
+Samuel Magrelli samuelito36;
+Leonardo Iacarelli Desto-jpg;
 
 URL del repository condiviso:
+https://github.com/samuelito36/esercitazione-0-template.git
 
-Chi ha usato la tastiera nello step 1 e nello step 2:
+Chi ha usato la tastiera nello step 1 e nello step 2: io.
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
@@ -14,12 +17,17 @@ saper spiegare le prove svolte.
 ## Step 1 — Hello World: compilazione ed esecuzione
 
 Comando di compilazione:
+gcc -std=c17 -Wall -Wextra -Wpedantic hello.c -o hello
 
 Comando di esecuzione e risultato osservato:
+./hello ; come comando di esecuzione;
+Hello, computational physics! ; come risultato osservato.
 
 Che cosa ho capito su sorgente ed eseguibile:
 
+
 Output richiesto e comportamento del programma prima della modifica:
+
 
 Esito dopo la modifica e spiegazione della correzione:
 
